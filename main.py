@@ -9,13 +9,13 @@ import shutil
 from Export import Excel
 from PyQt5.Qt import Qt
 import accuracytest
-from GUI.Home import Ui_HomePage
-from GUI.Dashboard import Ui_dashboard
-from GUI.Management import Ui_Form
-from GUI.Signup import Ui_MainWindow
-from GUI.update import Ui_update
-from GUI.Login import Ui_loginPage
-from GUI.upload_ui import Ui_Upload
+from Home import Ui_HomePage
+from Dashboard import Ui_dashboard
+from Management import Ui_Form
+from Signup import Ui_MainWindow
+from update import Ui_update
+from Login import Ui_loginPage
+from upload_ui import Ui_Upload
 import sys
 from PyQt5.QtChart import QChart, QChartView, QPieSeries, QPieSlice
 class LoginScreen(QDialog):
