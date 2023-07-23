@@ -1,0 +1,3 @@
+StudentID,Name,Age,Department,Email,Year,Sex,Father Name,Mother Name,Phone,Address,Date of Birth,PIN,Religion,Nationality,Caste,State,City,attendence
+1002,touqeer,21,BCA,touqeer@example.com,2020,M,muneer,noorjahan,7624839448,"#22, bikasipura yelchenahalli 7th main 10th cross",2001-11-23,560078,islam,indian,obc,karnataka,banglore,Absent
+1003,pradyumna,21,BCA,pradyumna@example.com,2020,M,jithendra,jayalakshmi,6361703079,"#1864, south end c cross jayanagar 9th block east end",2001-08-25,560069,hindu,indian,obc,karnataka,banglore,Present
