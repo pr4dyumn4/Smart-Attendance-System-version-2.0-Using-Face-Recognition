@@ -1,0 +1,7 @@
+opencv-python
+face-recognition
+numpy
+dlib
+mysql-connector-python
+PyQt5
+python3
