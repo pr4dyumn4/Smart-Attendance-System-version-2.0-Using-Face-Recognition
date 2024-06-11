@@ -52,7 +52,7 @@ This is the Admin Login page for authentication. Username and password
 ![App Screenshot](Screenshot/Screenshot1.png)
 
 HOME PAGE:
-This is the main page of the application, Manage Student, Dashboard, Export to CSV, It can also scan the face while scanning the video will be stored in the video File Admin can check so that no fake attendance is marked.
+This is the main page of the application, Manage Student, Dashboard, Export to CSV, It can also scan the face while scanning the video, which will be stored in the video File Admin can check so that no fake attendance is marked.
 
 ![App Screenshot](Screenshot/Screenshot2.png)
 
@@ -66,14 +66,14 @@ IN here student data can be added, updated, deleted, and Generate a single Qrcod
 ![App Screenshot](Screenshot/Screenshot8.png)
 
 Dashboard PAGE:
-Here you can view the attendance and strength of the classroom through a pie chart you can view the attendance
+Here you can view the attendance and strength of the classroom through a pie chart of the attendance
 
 ![App Screenshot](Screenshot/Screenshot3.png) 
 ![App Screenshot](Screenshot/Screenshot10.png) 
 
 SCANNING WINDOW:
 
-![App Screenshot](Screenshot/Screenshot9.png)
+![App Screenshot](captures/01072023 - 19 47/pradyumna.png)
 
 ## 🚀 About Project
 This is a GUI application made to manage students' Attendance using a face Scan.
